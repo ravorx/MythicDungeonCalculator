@@ -1,0 +1,2 @@
+# MythicDungeonCalculator
+WoW AddOn
